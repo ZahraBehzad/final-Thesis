@@ -1,4 +1,4 @@
-setuptools>=65.5.0
+setuptools==65.5.0
 wheel
 Flask==3.0.3
 Pillow==10.3.0
