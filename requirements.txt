@@ -1,6 +1,5 @@
 Flask==3.0.3
 Pillow==10.3.0
-numpy==1.24.3
 torch==1.13.1
 scikit-image==0.21.0
 opencv-python==4.11.0.86
